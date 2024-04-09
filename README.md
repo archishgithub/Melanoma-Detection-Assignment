@@ -1,1 +1,1 @@
-# BoomBike Sharing Assignment
+# Melanoma Detection Assignment
